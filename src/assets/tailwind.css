@@ -1,0 +1,21 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+/* global styling */
+    /* html{
+        overflow: scroll;
+        scrollbar-width: 0;
+        scrollbar-color:  transparent transparent;
+
+    }
+    html::-webkit-scrollbar{
+        width:0;
+    }
+
+    html::-webkit-scrollbar-track{
+        background:none;
+    } */
